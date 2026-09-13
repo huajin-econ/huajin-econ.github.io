@@ -16,6 +16,8 @@ This study proposes a framework for estimating demand in differentiated product 
 
 </details>
 
+## Working Papers
+
 **Conditional-Moment Estimation and Inference in the BLP Model** (with Rui Sun and Tian Xie)
 
 <details>
@@ -37,7 +39,7 @@ We study estimation of the average partial effect (APE) in an irregular correlat
 
 **Non-Asymptotic Convergence Rates for High-Dimensional Penalized Estimators** (with Dennis Kristensen)
 
-## Work in Progress
+## Selected Work in Progress
 
 **Uniform Inference on Structural Disparity in Covariance Transfer Learning** (with Rui Sun)
 
