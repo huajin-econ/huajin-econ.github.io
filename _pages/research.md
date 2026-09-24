@@ -42,7 +42,7 @@ We study estimation of the average partial effect (APE) in an irregular correlat
 
 <h2 style="border-bottom: 1px solid #ddd; padding-bottom: 0.3em;">Selected Work in Progress</h2>
 
-**Uniform Inference on Structural Disparity in Covariance Transfer Learning** (with Rui Sun)
+<!--**Uniform Inference on Structural Disparity in Covariance Transfer Learning** (with Rui Sun) -->
 
 **High-Dimensional GMM Estimation** (with Dennis Kristensen)
 
