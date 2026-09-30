@@ -19,7 +19,7 @@ This study proposes a framework for estimating demand in differentiated product 
 
 <h2 style="border-bottom: 1px solid #ddd; padding-bottom: 0.3em;">Working Papers</h2>
 
-**Conditional-Moment Estimation and Inference in the BLP Model** (with Rui Sun and Tian Xie)
+**Conditional-Moment Estimation and Inference in the BLP Model** (with Tian Xie)
 
 <details>
 <summary>Full abstract</summary>
