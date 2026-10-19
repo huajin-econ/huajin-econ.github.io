@@ -28,15 +28,7 @@ The random-coefficient demand model of Berry, Levinsohn, and Pakes (1995) is com
 
 </details>
 </div>
-<div>
-<a href="https://arxiv.org/abs/2609.15736" target="_blank">[arXiv]</a>&nbsp;&nbsp;<a href="#" onclick="var d=document.getElementById('abs1'); d.style.display = d.style.display==='none'?'block':'none'; return false;">[abstract]</a>
-</div>
 
-<div id="abs1" style="display:none" markdown="1">
-
-[摘要全文]
-
-</div>
 
 **Local Polynomial Estimation in Irregular Correlated Random Coefficient Panel Data Models** (with Yelong Chen and Yuxuan Ren)
 
