@@ -6,10 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
-  .abstract { font-size: 0.85em; text-align: justify; margin: 0.5em 0 1em;
-              padding-left: 0.8em; border-left: 2px solid #ddd; }
-</style>
+
 
 I am a PhD candidate in the [Department of Economics](https://www.ucl.ac.uk/economics/) at University College London.
 
@@ -22,12 +19,4 @@ Email: [hua.jin.20@ucl.ac.uk](mailto:hua.jin.20@ucl.ac.uk)
 [CV](/files/CV_Hua_Jin.pdf)
 
 
-<script>
-  document.querySelectorAll('.abs-toggle').forEach(function (btn) {
-    btn.addEventListener('click', function (e) {
-      e.preventDefault();
-      var abs = btn.parentElement.querySelector('.abstract');
-      abs.hidden = !abs.hidden;
-    });
-  });
-</script>
+
