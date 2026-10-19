@@ -27,7 +27,7 @@ Email: [hua.jin.20@ucl.ac.uk](mailto:hua.jin.20@ucl.ac.uk)
 .papers .abs-btn { color: var(--global-link-color, #52adc8); cursor: pointer; }
 .papers .abs-btn:hover { text-decoration: underline; }
 .papers .abstract {
-  font-size: 0.85em;
+  font-size: 0.75em;
   text-align: justify;
   margin: 0.6em 0 0.4em;
   padding-left: 0.9em;
