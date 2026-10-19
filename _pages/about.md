@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 <style>
-.pub-title { margin-bottom: 0.25em; }
-.pub-meta  { margin-top: 0; }
-.pub-abs   { margin-top: 0.6em; text-align: justify; }
+.page__content .pub-title { margin-bottom: 0.2em !important; }
+.page__content .pub-meta  { margin-top: 0 !important; margin-bottom: 1.5em; }
+.pub-abs { margin-top: 0.6em; text-align: justify; }
 </style>
 
 I am a PhD candidate in the [Department of Economics](https://www.ucl.ac.uk/economics/) at University College London.
