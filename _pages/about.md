@@ -19,4 +19,25 @@ Email: [hua.jin.20@ucl.ac.uk](mailto:hua.jin.20@ucl.ac.uk)
 [CV](/files/CV_Hua_Jin.pdf)
 
 
+<style>
+.papers li { margin-bottom: 1.2em; }
+.papers .abstract {
+  display: none;
+  font-size: 0.85em;
+  text-align: justify;
+  margin: 0.6em 0 0.4em;
+  padding-left: 0.9em;
+  border-left: 3px solid #ddd;
+  color: #555;
+}
+.papers .abstract.open { display: block; }
+</style>
 
+<script>
+document.addEventListener('click', function (e) {
+  var t = e.target.closest('.abs-toggle');
+  if (!t) return;
+  e.preventDefault();
+  t.closest('li').querySelector('.abstract').classList.toggle('open');
+});
+</script>
