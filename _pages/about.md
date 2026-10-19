@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 <style>
-.page__content .pub-title { margin-bottom: 0.2em !important; }
-.page__content .pub-meta  { margin-top: 0 !important; margin-bottom: 1.5em; }
-.pub-abs { margin-top: 0.6em; text-align: justify; }
+  .abstract { display: none; font-size: 0.85em; text-align: justify;
+              margin: 0.5em 0 1em; padding-left: 0.8em; border-left: 2px solid #ddd; }
+  .abstract.open { display: block; }
 </style>
 
 I am a PhD candidate in the [Department of Economics](https://www.ucl.ac.uk/economics/) at University College London.
@@ -21,3 +21,13 @@ I expect to complete my PhD in 2027 and am on the 2026–27 job market.
 Email: [hua.jin.20@ucl.ac.uk](mailto:hua.jin.20@ucl.ac.uk)
 
 [CV](/files/CV_Hua_Jin.pdf)
+
+
+<script>
+  document.querySelectorAll('.abs-toggle').forEach(function (btn) {
+    btn.addEventListener('click', function (e) {
+      e.preventDefault();
+      btn.parentElement.querySelector('.abstract').classList.toggle('open');
+    });
+  });
+</script>
