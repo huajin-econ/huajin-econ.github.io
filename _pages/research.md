@@ -12,7 +12,7 @@ author_profile: true
 <details>
 <summary>Full abstract</summary>
 
-This study proposes a framework for estimating demand in differentiated product markets with high-dimensional product characteristics, building upon the seminal Berry, Levinsohn, and Pakes (1995) model, using market level data. We allow for a very large set of potential product characteristics, where the number of characteristics may exceed the number of market observations. Our contributions are twofold. First, we establish a general estimation theory for BLP models featuring high-dimensional nuisance parameters. We propose a Neyman orthogonal estimator specifically adapted to this framework, utilizing machine learning techniques, such as Lasso, to construct nuisance parameter estimators that are plugged into the Neyman orthogonal estimator. This approach offers a significant advantage: it achieves root-T asymptotic normality for parameters of interest—such as the price coefficient and price heterogeneity—even when nuisance parameters are estimated at slower rates due to their high-dimensionality. Second, we apply this theory to a specialized BLP model under approximate sparsity, developing an estimation strategy for the high-dimensional nuisance parameters. The approximate sparsity condition posits that nuisance parameters can be controlled, up to a small approximation error, by a small and unknown subset of variables, which makes the recovery of nonzero parameters feasible by enabling nuisance parameter estimators to converge at the required rates. The practical performance of the method is evaluated through comprehensive Monte Carlo simulations, which demonstrate its efficacy in finite samples. We apply the method to analyze the juice market using Kantar's Worldpanel Take Home data as an empirical illustration.
+This paper develops a framework for estimating demand in differentiated product markets with high-dimensional product characteristics, building on the Berry, Levinsohn, and Pakes (1995) model with market-level data; the number of characteristics may exceed the number of markets. First, we propose a Neyman orthogonal estimator in which high-dimensional nuisance parameters are estimated by machine-learning methods such as LASSO, and show that it is $\sqrt{T}$-asymptotically normal for the parameters of interest, such as the price coefficient and price heterogeneity, even when the nuisance parameters converge at slower rates. Second, under approximate sparsity, we provide LASSO-based nuisance estimators that attain the required rates, although mean utility is recovered from market shares only when the nonlinear parameters are known. Monte Carlo simulations show good finite-sample performance. We illustrate the method with Dominick's Finer Foods data on tuna and Kantar Worldpanel Take Home data on juice.
 
 </details>
 
@@ -20,14 +20,23 @@ This study proposes a framework for estimating demand in differentiated product 
 <h2 style="border-bottom: 1px solid #ddd; padding-bottom: 0.3em;">Working Papers</h2>
 
 **<a href="https://arxiv.org/pdf/2609.15736" target="_blank">Conditional-Moment Estimation and Inference in the BLP Model</a>** (with Tian Xie)  
-<a href="https://arxiv.org/abs/2609.15736" target="_blank">[arXiv]</a> &nbsp;
-<details markdown="1" style="display:inline-block; vertical-align:top">
-<summary style="cursor:pointer; display:inline">[abstract]</summary>
 
+<div>
+<a href="https://arxiv.org/abs/2609.15736" target="_blank">[arXiv]</a>&nbsp;&nbsp;<details markdown="1" style="display:inline"><summary style="display:inline; cursor:pointer">[abstract]</summary>
+ 
 The random-coefficient demand model of Berry, Levinsohn, and Pakes (1995) is commonly estimated by the generalized method of moments (GMM), using an unconditional moment restriction with a fixed set of instruments. Identification of the model, however, rests on a conditional moment restriction. The two are not equivalent: the unconditional restriction may admit additional parameter values. We construct a counterexample in which the model is identified by the conditional restriction yet standard GMM is not, even with the optimal instrument. Building directly on the identifying restriction, we propose a two-step estimator, following Ai and Chen (2003), that first estimates the relevant conditional expectations nonparametrically and then selects the structural parameters by a conditional-variance-weighted minimum-distance criterion; standard GMM is recovered as the special case of a linear projection onto finitely many instruments. We establish root-T asymptotic normality for the proposed estimator, and we develop the theory for both kernel and series implementations of the first stage. The two implementations share a common limiting distribution, attaining the semiparametric efficiency bound under certain conditions. Simulation evidence illustrates the consequences of the identification gap and demonstrates that the proposed estimator outperforms standard GMM in finite samples.
 
- </details>
+</details>
+</div>
+<div>
+<a href="https://arxiv.org/abs/2609.15736" target="_blank">[arXiv]</a>&nbsp;&nbsp;<a href="#" onclick="var d=document.getElementById('abs1'); d.style.display = d.style.display==='none'?'block':'none'; return false;">[abstract]</a>
+</div>
 
+<div id="abs1" style="display:none" markdown="1">
+
+[摘要全文]
+
+</div>
 
 **Local Polynomial Estimation in Irregular Correlated Random Coefficient Panel Data Models** (with Yelong Chen and Yuxuan Ren)
 
