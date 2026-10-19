@@ -25,7 +25,7 @@ This paper develops a framework for estimating demand in differentiated product 
   with Tian Xie.<br>
   <a href="#" class="abs-toggle">[abstract]</a>
   <a href="https://arxiv.org/abs/2609.15736" target="_blank">[arXiv]</a>
-  <div class="abstract">
+  <div class="abstract" hidden>
   The random-coefficient demand model of Berry, Levinsohn, and Pakes (1995) is commonly estimated by the generalized method of moments (GMM), using an unconditional moment restriction with a fixed set of instruments. Identification of the model, however, rests on a conditional moment restriction. The two are not equivalent: the unconditional restriction may admit additional parameter values. We construct a counterexample in which the model is identified by the conditional restriction yet standard GMM is not, even with the optimal instrument. Building directly on the identifying restriction, we propose a two-step estimator, following Ai and Chen (2003), that first estimates the relevant conditional expectations nonparametrically and then selects the structural parameters by a conditional-variance-weighted minimum-distance criterion; standard GMM is recovered as the special case of a linear projection onto finitely many instruments. We establish root-T asymptotic normality for the proposed estimator, and we develop the theory for both kernel and series implementations of the first stage. The two implementations share a common limiting distribution, attaining the semiparametric efficiency bound under certain conditions. Simulation evidence illustrates the consequences of the identification gap and demonstrates that the proposed estimator outperforms standard GMM in finite samples.
   </div>
 </li>
