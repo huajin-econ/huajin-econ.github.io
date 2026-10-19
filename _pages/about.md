@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 <style>
-  .abstract { display: none; font-size: 0.85em; text-align: justify;
-              margin: 0.5em 0 1em; padding-left: 0.8em; border-left: 2px solid #ddd; }
-  .abstract.open { display: block; }
+  .abstract { font-size: 0.85em; text-align: justify; margin: 0.5em 0 1em;
+              padding-left: 0.8em; border-left: 2px solid #ddd; }
 </style>
 
 I am a PhD candidate in the [Department of Economics](https://www.ucl.ac.uk/economics/) at University College London.
@@ -27,7 +26,8 @@ Email: [hua.jin.20@ucl.ac.uk](mailto:hua.jin.20@ucl.ac.uk)
   document.querySelectorAll('.abs-toggle').forEach(function (btn) {
     btn.addEventListener('click', function (e) {
       e.preventDefault();
-      btn.parentElement.querySelector('.abstract').classList.toggle('open');
+      var abs = btn.parentElement.querySelector('.abstract');
+      abs.hidden = !abs.hidden;
     });
   });
 </script>
