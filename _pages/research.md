@@ -7,18 +7,22 @@ author_profile: true
 
 <h2 style="border-bottom: 1px solid #ddd; padding-bottom: 0.3em;">Job Market Paper</h2>
 
-**Estimation of BLP Models with High-dimensional Controls**
-
-<details>
-<summary>Full abstract</summary>
-
-This paper develops a framework for estimating demand in differentiated product markets with high-dimensional product characteristics, building on the Berry, Levinsohn, and Pakes (1995) model with market-level data; the number of characteristics may exceed the number of markets. First, we propose a Neyman orthogonal estimator in which high-dimensional nuisance parameters are estimated by machine-learning methods such as LASSO, and show that it is $\sqrt{T}$-asymptotically normal for the parameters of interest, such as the price coefficient and price heterogeneity, even when the nuisance parameters converge at slower rates. Second, under approximate sparsity, we provide LASSO-based nuisance estimators that attain the required rates, although mean utility is recovered from market shares only when the nonlinear parameters are known. Monte Carlo simulations show good finite-sample performance. We illustrate the method with Dominick's Finer Foods data on tuna and Kantar Worldpanel Take Home data on juice.
-
-</details>
+<ul class="papers">
+<li>
+  <a>Estimation of BLP Models with High-dimensional Controls</a><br>
+  <details>
+    <summary><span class="abs-btn">[abstract]</span> <a>[arXiv]</a></summary>
+    <div class="abstract">
+    This paper develops a framework for estimating demand in differentiated product markets with high-dimensional product characteristics, building on the Berry, Levinsohn, and Pakes (1995) model with market-level data; the number of characteristics may exceed the number of markets. First, we propose a Neyman orthogonal estimator in which high-dimensional nuisance parameters are estimated by machine-learning methods such as LASSO, and show that it is $\sqrt{T}$-asymptotically normal for the parameters of interest, such as the price coefficient and price heterogeneity, even when the nuisance parameters converge at slower rates. Second, under approximate sparsity, we provide LASSO-based nuisance estimators that attain the required rates, although mean utility is recovered from market shares only when the nonlinear parameters are known. Monte Carlo simulations show good finite-sample performance. We illustrate the method with Dominick's Finer Foods data on tuna and Kantar Worldpanel Take Home data on juice.
+    </div>
+  </details>
+</li>
+</ul>
 
 
 <h2 style="border-bottom: 1px solid #ddd; padding-bottom: 0.3em;">Working Papers</h2>
 
+<!--
 <ul>
 <li>
   <a href="https://arxiv.org/pdf/2609.15736" target="_blank">Conditional-Moment Estimation and Inference in the BLP Model</a><br>
@@ -30,6 +34,7 @@ This paper develops a framework for estimating demand in differentiated product 
   </div>
 </li>
 </ul>
+-->
 
 <ul class="papers">
 <li>
