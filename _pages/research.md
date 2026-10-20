@@ -60,7 +60,7 @@ author_profile: true
 </li>
 
 <li>
-  <a>Non-Asymptotic Convergence Rates for High-Dimensional Penalized Estimators</a><br>
+  Non-Asymptotic Convergence Rates for High-Dimensional Penalized Estimators<br>
   with Dennis Kristensen.
   <details>
     <summary><span class="abs-btn">[abstract]</span></summary>
