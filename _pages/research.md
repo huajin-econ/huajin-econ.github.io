@@ -68,3 +68,21 @@ We study estimation of the average partial effect (APE) in an irregular correlat
 
 **Flexible Nonparametric Estimation of Random Coefficients** (with Yihan Li and Tian Xie)
 
+
+
+
+<style>
+.papers li { margin-bottom: 1.2em; }
+.papers summary { list-style: none; display: block; cursor: default; }
+.papers summary::-webkit-details-marker { display: none; }
+.papers .abs-btn { color: var(--global-link-color, #52adc8); cursor: pointer; }
+.papers .abs-btn:hover { text-decoration: underline; }
+.papers .abstract {
+  font-size: 0.85em;
+  line-height: 1.5;
+  text-align: justify;
+  margin: 0.6em 0 0.4em;
+  padding-left: 0.9em;
+  border-left: 3px solid rgba(128, 128, 128, 0.4);
+}
+</style>
