@@ -18,7 +18,7 @@ redirect_from:
 
 **MSc in Econometrics and Mathematical Economics** *(with Distinction)*, London School of Economics, 2017–2018<br>
 
-**BSc in Mathematics**, University of Science and Technology of China *(with Distinction)*, 2013–2017<br>
+**BSc in Mathematics** *(with Distinction)*, University of Science and Technology of China, 2013–2017<br>
 
 
 ## Research Interests
