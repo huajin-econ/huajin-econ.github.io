@@ -85,7 +85,8 @@ author_profile: true
 
 <style>
 .papers li { margin-bottom: 1.2em; }
-.papers summary { list-style: none; display: block; cursor: default; }
+.papers summary { list-style: none; display: block; pointer-events: none; }
+.papers summary .abs-btn, .papers summary a { pointer-events: auto; }
 .papers summary::-webkit-details-marker { display: none; }
 .papers .abs-btn { color: var(--global-link-color, #52adc8); cursor: pointer; }
 .papers .abs-btn:hover { text-decoration: underline; }
