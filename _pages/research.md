@@ -47,18 +47,30 @@ author_profile: true
     </div>
   </details>
 </li>
+
+<li>
+  <a href="论文PDF链接" target="_blank">Local Polynomial Estimation in Irregular Correlated Random Coefficient Panel Data Models</a><br>
+  with Yelong Chen and Yuxuan Ren.
+  <details>
+    <summary><span class="abs-btn">[abstract]</span> <a href="arXiv摘要页链接" target="_blank">[arXiv]</a></summary>
+    <div class="abstract">
+    We study estimation of the average partial effect (APE) in an irregular correlated random coefficients panel data model in which the time dimension equals the number of random coefficients, T equals p, and the density function is degenerate. We extend Graham and Powell (2012) in two directions. First, we allow the density of the determinant of the individual regressor matrix to vanish or diverge at the origin at a polynomial rate of order a, with a greater than minus one, and show that the aggregate time effects and the APE remain identified for every such a; extending earlier work studying the case where a equals zero. Second, we propose a three-step estimator: a local polynomial regression of order m over the stayers for the time effects; a local polynomial fit of the conditional mean coefficient just outside the trimming threshold; and an imputation step that extrapolates the latter into the stayer region rather than discarding stayers. We establish joint asymptotic normality in three regimes determined by the sign of a, and obtain a convergence rate approaching n to the power of negative (m+1)/(2m+3) when a equals zero, against the cube root of n rate of Graham and Powell (2012), whose estimator is the special case where m and a are both zero. The results show that smoothness of the underlying conditional expectations can be traded for a faster convergence rate in irregularly identified models. Simulations confirm lower bias and root mean squared error across designs. We redo the over-identification analysis of a markup model in Raval (2023) where we allow for correlated random elasticity.
+    </div>
+  </details>
+</li>
+
+<li>
+  <a>Non-Asymptotic Convergence Rates for High-Dimensional Penalized Estimators</a><br>
+  with Dennis Kristensen.
+  <details>
+    <summary><span class="abs-btn">[abstract]</span></summary>
+    <div class="abstract">
+    </div>
+  </details>
+</li>
+
+
 </ul>
-
-**Local Polynomial Estimation in Irregular Correlated Random Coefficient Panel Data Models** (with Yelong Chen and Yuxuan Ren)
-
-<details>
-<summary>Full abstract</summary>
-
-We study estimation of the average partial effect (APE) in an irregular correlated random coefficients panel data model in which the time dimension equals the number of random coefficients, T equals p, and the density function is degenerate. We extend Graham and Powell (2012) in two directions. First, we allow the density of the determinant of the individual regressor matrix to vanish or diverge at the origin at a polynomial rate of order a, with a greater than minus one, and show that the aggregate time effects and the APE remain identified for every such a; extending earlier work studying the case where a equals zero. Second, we propose a three-step estimator: a local polynomial regression of order m over the stayers for the time effects; a local polynomial fit of the conditional mean coefficient just outside the trimming threshold; and an imputation step that extrapolates the latter into the stayer region rather than discarding stayers. We establish joint asymptotic normality in three regimes determined by the sign of a, and obtain a convergence rate approaching n to the power of negative (m+1)/(2m+3) when a equals zero, against the cube root of n rate of Graham and Powell (2012), whose estimator is the special case where m and a are both zero. The results show that smoothness of the underlying conditional expectations can be traded for a faster convergence rate in irregularly identified models. Simulations confirm lower bias and root mean squared error across designs. We redo the over-identification analysis of a markup model in Raval (2023) where we allow for correlated random elasticity.
-
-</details>
-
-**Non-Asymptotic Convergence Rates for High-Dimensional Penalized Estimators** (with Dennis Kristensen)
 
 <h2 style="border-bottom: 1px solid #ddd; padding-bottom: 0.3em;">Selected Work in Progress</h2>
 
