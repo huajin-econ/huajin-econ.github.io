@@ -38,7 +38,7 @@
     "layout/json_cv"
 ;
 
-/* ---- Papers list ---- */
+/* ---- Papers list (disabled) ----
 .papers li { margin-bottom: 1.2em; }
 .papers summary { list-style: none; display: block; cursor: default; }
 .papers summary::-webkit-details-marker { display: none; }
@@ -52,3 +52,4 @@
   padding-left: 0.9em;
   border-left: 3px solid rgba(128, 128, 128, 0.4);
 }
+---- end ---- */
