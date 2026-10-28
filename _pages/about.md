@@ -14,7 +14,7 @@ My research lies at the intersection of econometrics and machine learning, with 
 
 I expect to complete my PhD in 2027 and am on the 2026–27 job market.
 
-Email: [hua.jin.20@ucl.ac.uk](mailto:hua.jin.20@ucl.ac.uk)
+Email: [uctphji@ucl.ac.uk](mailto:uctphji@ucl.ac.uk)
 
 [CV](/files/CV_Hua_Jin.pdf)
 
