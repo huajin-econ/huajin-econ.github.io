@@ -9,9 +9,9 @@ author_profile: true
 
 <ul class="papers">
 <li>
-  <a href="https://arxiv.org/pdf/2605.01594" target="_blank">Estimation of BLP Models with High-dimensional Controls</a><br>
+  <a>Estimation of BLP Models with High-dimensional Controls</a><br>
   <details>
-    <summary><span class="abs-btn">[abstract]</span> <a href="https://arxiv.org/abs/2605.01594" target="_blank">[arXiv]</a></summary>
+    <summary><span class="abs-btn">[abstract]</span> <a>[arXiv]</a></summary>
     <div class="abstract">
     This paper develops a framework for estimating demand in differentiated product markets with high-dimensional product characteristics, building on the Berry, Levinsohn, and Pakes (1995) model with market-level data; the number of characteristics may exceed the number of markets. First, we propose a Neyman orthogonal estimator in which high-dimensional nuisance parameters are estimated by machine-learning methods such as LASSO, and show that it is $\sqrt{T}$-asymptotically normal for the parameters of interest, such as the price coefficient and price heterogeneity, even when the nuisance parameters converge at slower rates. Second, under approximate sparsity, we provide LASSO-based nuisance estimators that attain the required rates, although mean utility is recovered from market shares only when the nonlinear parameters are known. Monte Carlo simulations show good finite-sample performance. We illustrate the method with Dominick's Finer Foods data on tuna and Kantar Worldpanel Take Home data on juice.
     </div>
