@@ -10,8 +10,8 @@ redirect_from:
 
 I am a PhD candidate in the [Department of Economics](https://www.ucl.ac.uk/economics/) at University College London.
 
-<!-- My research lies at the intersection of econometrics and machine learning, with applications to industrial organization. I develop econometric methods for causal inference in high-dimensional settings. -->
-My research focuses on econometrics, with applications to industrial organization. I develop econometric methods for causal inference in high-dimensional settings.
+My research lies at the intersection of econometrics and machine learning, with applications to industrial organization. I develop econometric methods for causal inference in high-dimensional settings. 
+<!-- My research focuses on econometrics, with applications to industrial organization. I develop econometric methods for causal inference in high-dimensional settings.-->
 
 I expect to complete my PhD in 2027 and am on the 2026–27 job market.
 
